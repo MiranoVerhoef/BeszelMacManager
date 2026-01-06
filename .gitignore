@@ -1,0 +1,18 @@
+# Xcode
+.DS_Store
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.moved-aside
+*.xcscmblueprint
+*.xccheckout
+
+# SwiftPM
+.build/
+.swiftpm/
+
+# Archives / exports
+*.xcarchive
+*.dSYM
+*.app
+*.zip
