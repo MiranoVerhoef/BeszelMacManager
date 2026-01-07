@@ -4,6 +4,8 @@ A small macOS helper app to manage the **Beszel Agent** on a Mac.
 
 This manager is intentionally “easy mode”: it assumes you use **Homebrew**, so service control is done through `brew services` (launchd under the hood).
 
+<img width="975" height="924" alt="532591164-9dba4437-0c6c-4323-87de-0ca662a68641" src="https://github.com/user-attachments/assets/a8dd302a-cc66-41da-8faa-4228854f1c15" />
+
 ## What it does
 
 - Edit & save Beszel Agent env vars:
